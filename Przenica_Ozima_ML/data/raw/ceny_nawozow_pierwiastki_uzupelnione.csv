@@ -1,0 +1,543 @@
+rok,kategoria,nawóz,wojewodztwo,cena_pln_t,skladnik,cena_za_kg_czysty
+2018,Nawozy azotowe,saletra amonowa,DOLNOŚLĄSKIE,120.0,N,0.3529411764705882
+2018,Nawozy azotowe,saletra amonowa,KUJAWSKO-POMORSKIE,110.0,N,0.32352941176470584
+2018,Nawozy azotowe,saletra amonowa,LUBELSKIE,116.0,N,0.3411764705882353
+2018,Nawozy azotowe,saletra amonowa,LUBUSKIE,145.0,N,0.42647058823529405
+2018,Nawozy azotowe,saletra amonowa,ŁÓDZKIE,128.0,N,0.3764705882352941
+2018,Nawozy azotowe,saletra amonowa,MAŁOPOLSKIE,150.0,N,0.4411764705882352
+2018,Nawozy azotowe,saletra amonowa,MAZOWIECKIE,148.0,N,0.4352941176470588
+2018,Nawozy azotowe,saletra amonowa,OPOLSKIE,146.0,N,0.42941176470588227
+2018,Nawozy azotowe,saletra amonowa,PODKARPACKIE,133.0,N,0.3911764705882353
+2018,Nawozy azotowe,saletra amonowa,PODLASKIE,118.0,N,0.3470588235294117
+2018,Nawozy azotowe,saletra amonowa,POMORSKIE,150.0,N,0.4411764705882352
+2018,Nawozy azotowe,saletra amonowa,ŚLĄSKIE,120.0,N,0.3529411764705882
+2018,Nawozy azotowe,saletra amonowa,ŚWIĘTOKRZYSKIE,130.0,N,0.38235294117647056
+2018,Nawozy azotowe,saletra amonowa,WARMIŃSKO-MAZURSKIE,130.0,N,0.38235294117647056
+2018,Nawozy azotowe,saletra amonowa,WIELKOPOLSKIE,119.0,N,0.35
+2018,Nawozy azotowe,saletra amonowa,ZACHODNIOPOMORSKIE,144.0,N,0.4235294117647058
+2018,Nawozy azotowe,saletrzak,DOLNOŚLĄSKIE,107.0,N,0.39629629629629626
+2018,Nawozy azotowe,saletrzak,KUJAWSKO-POMORSKIE,96.0,N,0.3555555555555555
+2018,Nawozy azotowe,saletrzak,LUBELSKIE,101.0,N,0.37407407407407406
+2018,Nawozy azotowe,saletrzak,LUBUSKIE,128.0,N,0.47407407407407404
+2018,Nawozy azotowe,saletrzak,ŁÓDZKIE,110.0,N,0.4074074074074074
+2018,Nawozy azotowe,saletrzak,MAŁOPOLSKIE,140.0,N,0.5185185185185185
+2018,Nawozy azotowe,saletrzak,MAZOWIECKIE,136.0,N,0.5037037037037037
+2018,Nawozy azotowe,saletrzak,OPOLSKIE,120.0,N,0.4444444444444444
+2018,Nawozy azotowe,saletrzak,PODKARPACKIE,124.0,N,0.4592592592592592
+2018,Nawozy azotowe,saletrzak,PODLASKIE,112.0,N,0.4148148148148148
+2018,Nawozy azotowe,saletrzak,POMORSKIE,120.0,N,0.4444444444444444
+2018,Nawozy azotowe,saletrzak,ŚLĄSKIE,107.0,N,0.39629629629629626
+2018,Nawozy azotowe,saletrzak,ŚWIĘTOKRZYSKIE,110.0,N,0.4074074074074074
+2018,Nawozy azotowe,saletrzak,WARMIŃSKO-MAZURSKIE,117.0,N,0.43333333333333335
+2018,Nawozy azotowe,saletrzak,WIELKOPOLSKIE,101.0,N,0.37407407407407406
+2018,Nawozy azotowe,saletrzak,ZACHODNIOPOMORSKIE,120.0,N,0.4444444444444444
+2018,Nawozy azotowe,mocznik,DOLNOŚLĄSKIE,143.0,N,0.3108695652173913
+2018,Nawozy azotowe,mocznik,KUJAWSKO-POMORSKIE,132.0,N,0.28695652173913044
+2018,Nawozy azotowe,mocznik,LUBELSKIE,143.0,N,0.3108695652173913
+2018,Nawozy azotowe,mocznik,LUBUSKIE,150.0,N,0.3260869565217391
+2018,Nawozy azotowe,mocznik,ŁÓDZKIE,145.0,N,0.3152173913043478
+2018,Nawozy azotowe,mocznik,MAŁOPOLSKIE,180.0,N,0.3913043478260869
+2018,Nawozy azotowe,mocznik,MAZOWIECKIE,148.0,N,0.3217391304347826
+2018,Nawozy azotowe,mocznik,OPOLSKIE,156.0,N,0.3391304347826087
+2018,Nawozy azotowe,mocznik,PODKARPACKIE,168.0,N,0.3652173913043478
+2018,Nawozy azotowe,mocznik,PODLASKIE,140.0,N,0.30434782608695654
+2018,Nawozy azotowe,mocznik,POMORSKIE,160.0,N,0.34782608695652173
+2018,Nawozy azotowe,mocznik,ŚLĄSKIE,143.0,N,0.3108695652173913
+2018,Nawozy azotowe,mocznik,ŚWIĘTOKRZYSKIE,150.0,N,0.3260869565217391
+2018,Nawozy azotowe,mocznik,WARMIŃSKO-MAZURSKIE,160.0,N,0.34782608695652173
+2018,Nawozy azotowe,mocznik,WIELKOPOLSKIE,139.0,N,0.3021739130434783
+2018,Nawozy azotowe,mocznik,ZACHODNIOPOMORSKIE,172.0,N,0.3739130434782608
+2018,Nawozy Fosforowe,superfosfat poj. gran,DOLNOŚLĄSKIE,80.0,P,1.0193679918450562
+2018,Nawozy Fosforowe,superfosfat poj. gran,KUJAWSKO-POMORSKIE,116.0,P,1.4780835881753316
+2018,Nawozy Fosforowe,superfosfat poj. gran,LUBELSKIE,77.0,P,0.9811416921508666
+2018,Nawozy Fosforowe,superfosfat poj. gran,LUBUSKIE,75.0,P,0.9556574923547401
+2018,Nawozy Fosforowe,superfosfat poj. gran,ŁÓDZKIE,90.0,P,1.146788990825688
+2018,Nawozy Fosforowe,superfosfat poj. gran,MAŁOPOLSKIE,100.0,P,1.2742099898063202
+2018,Nawozy Fosforowe,superfosfat poj. gran,MAZOWIECKIE,87.0,P,1.1085626911314985
+2018,Nawozy Fosforowe,superfosfat poj. gran,OPOLSKIE,96.0,P,1.2232415902140674
+2018,Nawozy Fosforowe,superfosfat poj. gran,PODKARPACKIE,99.0,P,1.261467889908257
+2018,Nawozy Fosforowe,superfosfat poj. gran,PODLASKIE,92.0,P,1.1722731906218145
+2018,Nawozy Fosforowe,superfosfat poj. gran,POMORSKIE,102.0,P,1.2996941896024465
+2018,Nawozy Fosforowe,superfosfat poj. gran,ŚLĄSKIE,80.0,P,1.0193679918450562
+2018,Nawozy Fosforowe,superfosfat poj. gran,ŚWIĘTOKRZYSKIE,90.0,P,1.146788990825688
+2018,Nawozy Fosforowe,superfosfat poj. gran,WARMIŃSKO-MAZURSKIE,94.0,P,1.197757390417941
+2018,Nawozy Fosforowe,superfosfat poj. gran,WIELKOPOLSKIE,138.0,P,1.758409785932722
+2018,Nawozy Fosforowe,superfosfat poj. gran,ZACHODNIOPOMORSKIE,86.0,P,1.0958205912334353
+2018,Nawozy Fosforowe,superfosfat wzb 40%,DOLNOŚLĄSKIE,143.0,P,0.8199541284403669
+2018,Nawozy Fosforowe,superfosfat wzb 40%,KUJAWSKO-POMORSKIE,142.0,P,0.8142201834862385
+2018,Nawozy Fosforowe,superfosfat wzb 40%,LUBELSKIE,155.0,P,0.8887614678899083
+2018,Nawozy Fosforowe,superfosfat wzb 40%,LUBUSKIE,154.0,P,0.8830275229357798
+2018,Nawozy Fosforowe,superfosfat wzb 40%,ŁÓDZKIE,160.0,P,0.9174311926605505
+2018,Nawozy Fosforowe,superfosfat wzb 40%,MAŁOPOLSKIE,180.0,P,1.0321100917431192
+2018,Nawozy Fosforowe,superfosfat wzb 40%,MAZOWIECKIE,153.0,P,0.8772935779816513
+2018,Nawozy Fosforowe,superfosfat wzb 40%,OPOLSKIE,160.0,P,0.9174311926605505
+2018,Nawozy Fosforowe,superfosfat wzb 40%,PODKARPACKIE,198.0,P,1.1353211009174313
+2018,Nawozy Fosforowe,superfosfat wzb 40%,PODLASKIE,150.0,P,0.8600917431192661
+2018,Nawozy Fosforowe,superfosfat wzb 40%,POMORSKIE,242.0,P,1.3876146788990826
+2018,Nawozy Fosforowe,superfosfat wzb 40%,ŚLĄSKIE,143.0,P,0.8199541284403669
+2018,Nawozy Fosforowe,superfosfat wzb 40%,ŚWIĘTOKRZYSKIE,154.0,P,0.8830275229357798
+2018,Nawozy Fosforowe,superfosfat wzb 40%,WARMIŃSKO-MAZURSKIE,145.0,P,0.8314220183486238
+2018,Nawozy Fosforowe,superfosfat wzb 40%,WIELKOPOLSKIE,147.0,P,0.8428899082568807
+2018,Nawozy Fosforowe,superfosfat wzb 40%,ZACHODNIOPOMORSKIE,160.0,P,0.9174311926605505
+2018,Nawozy potasowe,sól potasowa,DOLNOŚLĄSKIE,149.0,K,0.2991967871485944
+2018,Nawozy potasowe,sól potasowa,KUJAWSKO-POMORSKIE,138.0,K,0.2771084337349398
+2018,Nawozy potasowe,sól potasowa,LUBELSKIE,148.0,K,0.29718875502008035
+2018,Nawozy potasowe,sól potasowa,LUBUSKIE,180.0,K,0.3614457831325302
+2018,Nawozy potasowe,sól potasowa,ŁÓDZKIE,178.0,K,0.357429718875502
+2018,Nawozy potasowe,sól potasowa,MAŁOPOLSKIE,220.0,K,0.4417670682730924
+2018,Nawozy potasowe,sól potasowa,MAZOWIECKIE,155.0,K,0.31124497991967875
+2018,Nawozy potasowe,sól potasowa,OPOLSKIE,158.0,K,0.31726907630522094
+2018,Nawozy potasowe,sól potasowa,PODKARPACKIE,162.0,K,0.32530120481927716
+2018,Nawozy potasowe,sól potasowa,PODLASKIE,152.0,K,0.30522088353413657
+2018,Nawozy potasowe,sól potasowa,POMORSKIE,171.0,K,0.34337349397590367
+2018,Nawozy potasowe,sól potasowa,ŚLĄSKIE,149.0,K,0.2991967871485944
+2018,Nawozy potasowe,sól potasowa,ŚWIĘTOKRZYSKIE,160.0,K,0.32128514056224905
+2018,Nawozy potasowe,sól potasowa,WARMIŃSKO-MAZURSKIE,165.0,K,0.33132530120481934
+2018,Nawozy potasowe,sól potasowa,WIELKOPOLSKIE,143.0,K,0.28714859437751006
+2018,Nawozy potasowe,sól potasowa,ZACHODNIOPOMORSKIE,159.0,K,0.31927710843373497
+2018,Nawozy potasowe,siarczan potasu,DOLNOŚLĄSKIE,232.0,K,0.5590361445783133
+2018,Nawozy potasowe,siarczan potasu,KUJAWSKO-POMORSKIE,248.0,K,0.5975903614457831
+2018,Nawozy potasowe,siarczan potasu,LUBELSKIE,280.0,K,0.674698795180723
+2018,Nawozy potasowe,siarczan potasu,LUBUSKIE,300.0,K,0.7228915662650602
+2018,Nawozy potasowe,siarczan potasu,ŁÓDZKIE,300.0,K,0.7228915662650602
+2018,Nawozy potasowe,siarczan potasu,MAŁOPOLSKIE,265.0,K,0.6385542168674699
+2018,Nawozy potasowe,siarczan potasu,MAZOWIECKIE,320.0,K,0.7710843373493976
+2018,Nawozy potasowe,siarczan potasu,OPOLSKIE,320.0,K,0.7710843373493976
+2018,Nawozy potasowe,siarczan potasu,PODKARPACKIE,320.0,K,0.7710843373493976
+2018,Nawozy potasowe,siarczan potasu,ŚLĄSKIE,232.0,K,0.5590361445783133
+2018,Nawozy potasowe,siarczan potasu,ŚWIĘTOKRZYSKIE,330.0,K,0.7951807228915664
+2018,Nawozy potasowe,siarczan potasu,WIELKOPOLSKIE,278.0,K,0.6698795180722893
+2018,Nawozy potasowe,siarczan potasu,ZACHODNIOPOMORSKIE,299.0,K,0.7204819277108434
+2017,Nawozy azotowe,saletra amonowa,DOLNOŚLĄSKIE,113.0,N,0.3323529411764706
+2017,Nawozy azotowe,saletra amonowa,KUJAWSKO-POMORSKIE,117.0,N,0.34411764705882353
+2017,Nawozy azotowe,saletra amonowa,LUBELSKIE,125.0,N,0.3676470588235294
+2017,Nawozy azotowe,saletra amonowa,LUBUSKIE,175.0,N,0.5147058823529411
+2017,Nawozy azotowe,saletra amonowa,ŁÓDZKIE,124.0,N,0.36470588235294116
+2017,Nawozy azotowe,saletra amonowa,MAŁOPOLSKIE,150.0,N,0.4411764705882352
+2017,Nawozy azotowe,saletra amonowa,MAZOWIECKIE,148.0,N,0.4352941176470588
+2017,Nawozy azotowe,saletra amonowa,OPOLSKIE,125.0,N,0.3676470588235294
+2017,Nawozy azotowe,saletra amonowa,PODKARPACKIE,140.0,N,0.411764705882353
+2017,Nawozy azotowe,saletra amonowa,PODLASKIE,132.0,N,0.38823529411764707
+2017,Nawozy azotowe,saletra amonowa,POMORSKIE,150.0,N,0.4411764705882352
+2017,Nawozy azotowe,saletra amonowa,ŚLĄSKIE,120.0,N,0.3529411764705882
+2017,Nawozy azotowe,saletra amonowa,ŚWIĘTOKRZYSKIE,130.0,N,0.38235294117647056
+2017,Nawozy azotowe,saletra amonowa,WARMIŃSKO-MAZURSKIE,130.0,N,0.38235294117647056
+2017,Nawozy azotowe,saletra amonowa,WIELKOPOLSKIE,116.0,N,0.3411764705882353
+2017,Nawozy azotowe,saletra amonowa,ZACHODNIOPOMORSKIE,143.0,N,0.4205882352941176
+2017,Nawozy azotowe,saletrzak,DOLNOŚLĄSKIE,104.0,N,0.38518518518518513
+2017,Nawozy azotowe,saletrzak,KUJAWSKO-POMORSKIE,109.0,N,0.4037037037037037
+2017,Nawozy azotowe,saletrzak,LUBELSKIE,104.0,N,0.38518518518518513
+2017,Nawozy azotowe,saletrzak,LUBUSKIE,125.0,N,0.4629629629629629
+2017,Nawozy azotowe,saletrzak,ŁÓDZKIE,109.0,N,0.4037037037037037
+2017,Nawozy azotowe,saletrzak,MAŁOPOLSKIE,130.0,N,0.48148148148148145
+2017,Nawozy azotowe,saletrzak,MAZOWIECKIE,142.0,N,0.5259259259259258
+2017,Nawozy azotowe,saletrzak,OPOLSKIE,110.0,N,0.4074074074074074
+2017,Nawozy azotowe,saletrzak,PODKARPACKIE,140.0,N,0.5185185185185185
+2017,Nawozy azotowe,saletrzak,PODLASKIE,112.0,N,0.4148148148148148
+2017,Nawozy azotowe,saletrzak,POMORSKIE,107.0,N,0.39629629629629626
+2017,Nawozy azotowe,saletrzak,ŚLĄSKIE,98.0,N,0.36296296296296293
+2017,Nawozy azotowe,saletrzak,ŚWIĘTOKRZYSKIE,118.0,N,0.437037037037037
+2017,Nawozy azotowe,saletrzak,WARMIŃSKO-MAZURSKIE,128.0,N,0.47407407407407404
+2017,Nawozy azotowe,saletrzak,WIELKOPOLSKIE,101.0,N,0.37407407407407406
+2017,Nawozy azotowe,saletrzak,ZACHODNIOPOMORSKIE,134.0,N,0.4962962962962963
+2017,Nawozy azotowe,mocznik,DOLNOŚLĄSKIE,135.0,N,0.29347826086956524
+2017,Nawozy azotowe,mocznik,KUJAWSKO-POMORSKIE,139.0,N,0.3021739130434783
+2017,Nawozy azotowe,mocznik,LUBELSKIE,143.0,N,0.3108695652173913
+2017,Nawozy azotowe,mocznik,LUBUSKIE,150.0,N,0.3260869565217391
+2017,Nawozy azotowe,mocznik,ŁÓDZKIE,156.0,N,0.3391304347826087
+2017,Nawozy azotowe,mocznik,MAŁOPOLSKIE,180.0,N,0.3913043478260869
+2017,Nawozy azotowe,mocznik,MAZOWIECKIE,176.0,N,0.38260869565217387
+2017,Nawozy azotowe,mocznik,OPOLSKIE,130.0,N,0.2826086956521739
+2017,Nawozy azotowe,mocznik,PODKARPACKIE,160.0,N,0.34782608695652173
+2017,Nawozy azotowe,mocznik,PODLASKIE,152.0,N,0.33043478260869563
+2017,Nawozy azotowe,mocznik,POMORSKIE,160.0,N,0.34782608695652173
+2017,Nawozy azotowe,mocznik,ŚLĄSKIE,150.0,N,0.3260869565217391
+2017,Nawozy azotowe,mocznik,ŚWIĘTOKRZYSKIE,160.0,N,0.34782608695652173
+2017,Nawozy azotowe,mocznik,WARMIŃSKO-MAZURSKIE,160.0,N,0.34782608695652173
+2017,Nawozy azotowe,mocznik,WIELKOPOLSKIE,143.0,N,0.3108695652173913
+2017,Nawozy azotowe,mocznik,ZACHODNIOPOMORSKIE,180.0,N,0.3913043478260869
+2017,Nawozy Fosforowe,superfosfat poj. gran,DOLNOŚLĄSKIE,74.0,P,0.9429153924566769
+2017,Nawozy Fosforowe,superfosfat poj. gran,KUJAWSKO-POMORSKIE,81.0,P,1.0321100917431194
+2017,Nawozy Fosforowe,superfosfat poj. gran,LUBELSKIE,92.0,P,1.1722731906218145
+2017,Nawozy Fosforowe,superfosfat poj. gran,LUBUSKIE,70.0,P,0.8919469928644242
+2017,Nawozy Fosforowe,superfosfat poj. gran,ŁÓDZKIE,87.0,P,1.1085626911314985
+2017,Nawozy Fosforowe,superfosfat poj. gran,MAŁOPOLSKIE,100.0,P,1.2742099898063202
+2017,Nawozy Fosforowe,superfosfat poj. gran,MAZOWIECKIE,84.0,P,1.070336391437309
+2017,Nawozy Fosforowe,superfosfat poj. gran,OPOLSKIE,140.0,P,1.7838939857288485
+2017,Nawozy Fosforowe,superfosfat poj. gran,PODKARPACKIE,99.0,P,1.261467889908257
+2017,Nawozy Fosforowe,superfosfat poj. gran,PODLASKIE,83.0,P,1.0575942915392458
+2017,Nawozy Fosforowe,superfosfat poj. gran,POMORSKIE,82.0,P,1.0448521916411826
+2017,Nawozy Fosforowe,superfosfat poj. gran,ŚLĄSKIE,69.0,P,0.879204892966361
+2017,Nawozy Fosforowe,superfosfat poj. gran,ŚWIĘTOKRZYSKIE,90.0,P,1.146788990825688
+2017,Nawozy Fosforowe,superfosfat poj. gran,WARMIŃSKO-MAZURSKIE,94.0,P,1.197757390417941
+2017,Nawozy Fosforowe,superfosfat poj. gran,WIELKOPOLSKIE,70.0,P,0.8919469928644242
+2017,Nawozy Fosforowe,superfosfat poj. gran,ZACHODNIOPOMORSKIE,87.0,P,1.1085626911314985
+2017,Nawozy Fosforowe,superfosfat wzb 40%,DOLNOŚLĄSKIE,138.0,P,0.7912844036697249
+2017,Nawozy Fosforowe,superfosfat wzb 40%,KUJAWSKO-POMORSKIE,150.0,P,0.8600917431192661
+2017,Nawozy Fosforowe,superfosfat wzb 40%,LUBELSKIE,150.0,P,0.8600917431192661
+2017,Nawozy Fosforowe,superfosfat wzb 40%,LUBUSKIE,175.0,P,1.003440366972477
+2017,Nawozy Fosforowe,superfosfat wzb 40%,ŁÓDZKIE,160.0,P,0.9174311926605505
+2017,Nawozy Fosforowe,superfosfat wzb 40%,MAŁOPOLSKIE,180.0,P,1.0321100917431192
+2017,Nawozy Fosforowe,superfosfat wzb 40%,MAZOWIECKIE,160.0,P,0.9174311926605505
+2017,Nawozy Fosforowe,superfosfat wzb 40%,OPOLSKIE,152.0,P,0.8715596330275229
+2017,Nawozy Fosforowe,superfosfat wzb 40%,PODKARPACKIE,198.0,P,1.1353211009174313
+2017,Nawozy Fosforowe,superfosfat wzb 40%,PODLASKIE,154.0,P,0.8830275229357798
+2017,Nawozy Fosforowe,superfosfat wzb 40%,POMORSKIE,242.0,P,1.3876146788990826
+2017,Nawozy Fosforowe,superfosfat wzb 40%,ŚLĄSKIE,135.0,P,0.7740825688073395
+2017,Nawozy Fosforowe,superfosfat wzb 40%,ŚWIĘTOKRZYSKIE,168.0,P,0.9633027522935781
+2017,Nawozy Fosforowe,superfosfat wzb 40%,WARMIŃSKO-MAZURSKIE,152.0,P,0.8715596330275229
+2017,Nawozy Fosforowe,superfosfat wzb 40%,WIELKOPOLSKIE,152.0,P,0.8715596330275229
+2017,Nawozy Fosforowe,superfosfat wzb 40%,ZACHODNIOPOMORSKIE,177.0,P,1.014908256880734
+2017,Nawozy potasowe,sól potasowa,DOLNOŚLĄSKIE,149.0,K,0.2991967871485944
+2017,Nawozy potasowe,sól potasowa,KUJAWSKO-POMORSKIE,157.0,K,0.31526104417670686
+2017,Nawozy potasowe,sól potasowa,LUBELSKIE,155.0,K,0.31124497991967875
+2017,Nawozy potasowe,sól potasowa,LUBUSKIE,154.0,K,0.3092369477911647
+2017,Nawozy potasowe,sól potasowa,ŁÓDZKIE,194.0,K,0.389558232931727
+2017,Nawozy potasowe,sól potasowa,MAŁOPOLSKIE,220.0,K,0.4417670682730924
+2017,Nawozy potasowe,sól potasowa,MAZOWIECKIE,160.0,K,0.32128514056224905
+2017,Nawozy potasowe,sól potasowa,OPOLSKIE,153.0,K,0.30722891566265065
+2017,Nawozy potasowe,sól potasowa,PODKARPACKIE,192.0,K,0.38554216867469887
+2017,Nawozy potasowe,sól potasowa,PODLASKIE,169.0,K,0.33935742971887556
+2017,Nawozy potasowe,sól potasowa,POMORSKIE,171.0,K,0.34337349397590367
+2017,Nawozy potasowe,sól potasowa,ŚLĄSKIE,158.0,K,0.31726907630522094
+2017,Nawozy potasowe,sól potasowa,ŚWIĘTOKRZYSKIE,170.0,K,0.34136546184738964
+2017,Nawozy potasowe,sól potasowa,WARMIŃSKO-MAZURSKIE,165.0,K,0.33132530120481934
+2017,Nawozy potasowe,sól potasowa,WIELKOPOLSKIE,153.0,K,0.30722891566265065
+2017,Nawozy potasowe,sól potasowa,ZACHODNIOPOMORSKIE,154.0,K,0.3092369477911647
+2017,Nawozy potasowe,siarczan potasu,DOLNOŚLĄSKIE,261.0,K,0.6289156626506025
+2017,Nawozy potasowe,siarczan potasu,KUJAWSKO-POMORSKIE,217.0,K,0.5228915662650603
+2017,Nawozy potasowe,siarczan potasu,LUBELSKIE,265.0,K,0.6385542168674699
+2017,Nawozy potasowe,siarczan potasu,LUBUSKIE,300.0,K,0.7228915662650602
+2017,Nawozy potasowe,siarczan potasu,ŁÓDZKIE,300.0,K,0.7228915662650602
+2017,Nawozy potasowe,siarczan potasu,MAŁOPOLSKIE,289.0,K,0.6963855421686747
+2017,Nawozy potasowe,siarczan potasu,MAZOWIECKIE,328.0,K,0.7903614457831326
+2017,Nawozy potasowe,siarczan potasu,OPOLSKIE,300.0,K,0.7228915662650602
+2017,Nawozy potasowe,siarczan potasu,PODKARPACKIE,320.0,K,0.7710843373493976
+2017,Nawozy potasowe,siarczan potasu,ŚWIĘTOKRZYSKIE,310.0,K,0.746987951807229
+2017,Nawozy potasowe,siarczan potasu,WIELKOPOLSKIE,278.0,K,0.6698795180722893
+2017,Nawozy potasowe,siarczan potasu,ZACHODNIOPOMORSKIE,308.0,K,0.7421686746987952
+2016,Nawozy azotowe,saletra amonowa,DOLNOŚLĄSKIE,117.0,N,0.34411764705882353
+2016,Nawozy azotowe,saletra amonowa,KUJAWSKO-POMORSKIE,98.0,N,0.28823529411764703
+2016,Nawozy azotowe,saletra amonowa,LUBELSKIE,132.0,N,0.38823529411764707
+2016,Nawozy azotowe,saletra amonowa,LUBUSKIE,145.0,N,0.42647058823529405
+2016,Nawozy azotowe,saletra amonowa,ŁÓDZKIE,144.0,N,0.4235294117647058
+2016,Nawozy azotowe,saletra amonowa,MAŁOPOLSKIE,160.0,N,0.47058823529411764
+2016,Nawozy azotowe,saletra amonowa,MAZOWIECKIE,141.0,N,0.4147058823529411
+2016,Nawozy azotowe,saletra amonowa,OPOLSKIE,90.0,N,0.2647058823529411
+2016,Nawozy azotowe,saletra amonowa,PODKARPACKIE,180.0,N,0.5294117647058822
+2016,Nawozy azotowe,saletra amonowa,PODLASKIE,148.0,N,0.4352941176470588
+2016,Nawozy azotowe,saletra amonowa,POMORSKIE,150.0,N,0.4411764705882352
+2016,Nawozy azotowe,saletra amonowa,ŚLĄSKIE,130.0,N,0.38235294117647056
+2016,Nawozy azotowe,saletra amonowa,ŚWIĘTOKRZYSKIE,125.0,N,0.3676470588235294
+2016,Nawozy azotowe,saletra amonowa,WARMIŃSKO-MAZURSKIE,128.0,N,0.3764705882352941
+2016,Nawozy azotowe,saletra amonowa,WIELKOPOLSKIE,137.0,N,0.40294117647058825
+2016,Nawozy azotowe,saletra amonowa,ZACHODNIOPOMORSKIE,167.0,N,0.49117647058823527
+2016,Nawozy azotowe,saletrzak,DOLNOŚLĄSKIE,109.0,N,0.4037037037037037
+2016,Nawozy azotowe,saletrzak,KUJAWSKO-POMORSKIE,92.0,N,0.34074074074074073
+2016,Nawozy azotowe,saletrzak,LUBELSKIE,115.0,N,0.42592592592592593
+2016,Nawozy azotowe,saletrzak,LUBUSKIE,128.0,N,0.47407407407407404
+2016,Nawozy azotowe,saletrzak,ŁÓDZKIE,130.0,N,0.48148148148148145
+2016,Nawozy azotowe,saletrzak,MAŁOPOLSKIE,130.0,N,0.48148148148148145
+2016,Nawozy azotowe,saletrzak,MAZOWIECKIE,134.0,N,0.4962962962962963
+2016,Nawozy azotowe,saletrzak,OPOLSKIE,80.0,N,0.2962962962962963
+2016,Nawozy azotowe,saletrzak,PODKARPACKIE,140.0,N,0.5185185185185185
+2016,Nawozy azotowe,saletrzak,PODLASKIE,135.0,N,0.5
+2016,Nawozy azotowe,saletrzak,POMORSKIE,112.0,N,0.4148148148148148
+2016,Nawozy azotowe,saletrzak,ŚLĄSKIE,115.0,N,0.42592592592592593
+2016,Nawozy azotowe,saletrzak,ŚWIĘTOKRZYSKIE,110.0,N,0.4074074074074074
+2016,Nawozy azotowe,saletrzak,WARMIŃSKO-MAZURSKIE,128.0,N,0.47407407407407404
+2016,Nawozy azotowe,saletrzak,WIELKOPOLSKIE,125.0,N,0.4629629629629629
+2016,Nawozy azotowe,saletrzak,ZACHODNIOPOMORSKIE,137.0,N,0.5074074074074074
+2016,Nawozy azotowe,mocznik,DOLNOŚLĄSKIE,139.0,N,0.3021739130434783
+2016,Nawozy azotowe,mocznik,KUJAWSKO-POMORSKIE,123.0,N,0.2673913043478261
+2016,Nawozy azotowe,mocznik,LUBELSKIE,136.0,N,0.2956521739130435
+2016,Nawozy azotowe,mocznik,LUBUSKIE,131.0,N,0.2847826086956522
+2016,Nawozy azotowe,mocznik,ŁÓDZKIE,163.0,N,0.35434782608695653
+2016,Nawozy azotowe,mocznik,MAŁOPOLSKIE,180.0,N,0.3913043478260869
+2016,Nawozy azotowe,mocznik,MAZOWIECKIE,178.0,N,0.3869565217391304
+2016,Nawozy azotowe,mocznik,OPOLSKIE,100.0,N,0.21739130434782608
+2016,Nawozy azotowe,mocznik,PODKARPACKIE,124.0,N,0.26956521739130435
+2016,Nawozy azotowe,mocznik,PODLASKIE,148.0,N,0.3217391304347826
+2016,Nawozy azotowe,mocznik,POMORSKIE,160.0,N,0.34782608695652173
+2016,Nawozy azotowe,mocznik,ŚLĄSKIE,150.0,N,0.3260869565217391
+2016,Nawozy azotowe,mocznik,ŚWIĘTOKRZYSKIE,148.0,N,0.3217391304347826
+2016,Nawozy azotowe,mocznik,WARMIŃSKO-MAZURSKIE,148.0,N,0.3217391304347826
+2016,Nawozy azotowe,mocznik,WIELKOPOLSKIE,149.0,N,0.32391304347826083
+2016,Nawozy azotowe,mocznik,ZACHODNIOPOMORSKIE,180.0,N,0.3913043478260869
+2016,Nawozy Fosforowe,superfosfat poj. gran,DOLNOŚLĄSKIE,81.0,P,1.0321100917431194
+2016,Nawozy Fosforowe,superfosfat poj. gran,KUJAWSKO-POMORSKIE,76.0,P,0.9683995922528033
+2016,Nawozy Fosforowe,superfosfat poj. gran,LUBELSKIE,85.0,P,1.0830784913353722
+2016,Nawozy Fosforowe,superfosfat poj. gran,LUBUSKIE,75.0,P,0.9556574923547401
+2016,Nawozy Fosforowe,superfosfat poj. gran,ŁÓDZKIE,90.0,P,1.146788990825688
+2016,Nawozy Fosforowe,superfosfat poj. gran,MAŁOPOLSKIE,100.0,P,1.2742099898063202
+2016,Nawozy Fosforowe,superfosfat poj. gran,MAZOWIECKIE,91.0,P,1.1595310907237513
+2016,Nawozy Fosforowe,superfosfat poj. gran,OPOLSKIE,72.0,P,0.9174311926605505
+2016,Nawozy Fosforowe,superfosfat poj. gran,PODKARPACKIE,89.0,P,1.134046890927625
+2016,Nawozy Fosforowe,superfosfat poj. gran,PODLASKIE,89.0,P,1.134046890927625
+2016,Nawozy Fosforowe,superfosfat poj. gran,POMORSKIE,82.0,P,1.0448521916411826
+2016,Nawozy Fosforowe,superfosfat poj. gran,ŚLĄSKIE,81.0,P,1.0321100917431194
+2016,Nawozy Fosforowe,superfosfat poj. gran,ŚWIĘTOKRZYSKIE,90.0,P,1.146788990825688
+2016,Nawozy Fosforowe,superfosfat poj. gran,WIELKOPOLSKIE,103.0,P,1.3124362895005097
+2016,Nawozy Fosforowe,superfosfat poj. gran,ZACHODNIOPOMORSKIE,123.0,P,1.567278287461774
+2016,Nawozy Fosforowe,superfosfat wzb 40%,DOLNOŚLĄSKIE,150.0,P,0.8600917431192661
+2016,Nawozy Fosforowe,superfosfat wzb 40%,KUJAWSKO-POMORSKIE,141.0,P,0.80848623853211
+2016,Nawozy Fosforowe,superfosfat wzb 40%,LUBELSKIE,160.0,P,0.9174311926605505
+2016,Nawozy Fosforowe,superfosfat wzb 40%,LUBUSKIE,174.0,P,0.9977064220183486
+2016,Nawozy Fosforowe,superfosfat wzb 40%,ŁÓDZKIE,164.0,P,0.9403669724770642
+2016,Nawozy Fosforowe,superfosfat wzb 40%,MAŁOPOLSKIE,180.0,P,1.0321100917431192
+2016,Nawozy Fosforowe,superfosfat wzb 40%,MAZOWIECKIE,162.0,P,0.9288990825688074
+2016,Nawozy Fosforowe,superfosfat wzb 40%,OPOLSKIE,138.0,P,0.7912844036697249
+2016,Nawozy Fosforowe,superfosfat wzb 40%,PODKARPACKIE,144.0,P,0.8256880733944953
+2016,Nawozy Fosforowe,superfosfat wzb 40%,PODLASKIE,158.0,P,0.9059633027522936
+2016,Nawozy Fosforowe,superfosfat wzb 40%,POMORSKIE,242.0,P,1.3876146788990826
+2016,Nawozy Fosforowe,superfosfat wzb 40%,ŚLĄSKIE,148.0,P,0.8486238532110091
+2016,Nawozy Fosforowe,superfosfat wzb 40%,ŚWIĘTOKRZYSKIE,155.0,P,0.8887614678899083
+2016,Nawozy Fosforowe,superfosfat wzb 40%,WARMIŃSKO-MAZURSKIE,160.0,P,0.9174311926605505
+2016,Nawozy Fosforowe,superfosfat wzb 40%,WIELKOPOLSKIE,155.0,P,0.8887614678899083
+2016,Nawozy Fosforowe,superfosfat wzb 40%,ZACHODNIOPOMORSKIE,168.0,P,0.9633027522935781
+2016,Nawozy potasowe,sól potasowa,DOLNOŚLĄSKIE,157.0,K,0.31526104417670686
+2016,Nawozy potasowe,sól potasowa,KUJAWSKO-POMORSKIE,144.0,K,0.2891566265060241
+2016,Nawozy potasowe,sól potasowa,LUBELSKIE,152.0,K,0.30522088353413657
+2016,Nawozy potasowe,sól potasowa,LUBUSKIE,164.0,K,0.32931726907630526
+2016,Nawozy potasowe,sól potasowa,ŁÓDZKIE,194.0,K,0.389558232931727
+2016,Nawozy potasowe,sól potasowa,MAŁOPOLSKIE,220.0,K,0.4417670682730924
+2016,Nawozy potasowe,sól potasowa,MAZOWIECKIE,198.0,K,0.3975903614457832
+2016,Nawozy potasowe,sól potasowa,OPOLSKIE,138.0,K,0.2771084337349398
+2016,Nawozy potasowe,sól potasowa,PODKARPACKIE,192.0,K,0.38554216867469887
+2016,Nawozy potasowe,sól potasowa,PODLASKIE,169.0,K,0.33935742971887556
+2016,Nawozy potasowe,sól potasowa,POMORSKIE,220.0,K,0.4417670682730924
+2016,Nawozy potasowe,sól potasowa,ŚLĄSKIE,162.0,K,0.32530120481927716
+2016,Nawozy potasowe,sól potasowa,ŚWIĘTOKRZYSKIE,190.0,K,0.3815261044176707
+2016,Nawozy potasowe,sól potasowa,WARMIŃSKO-MAZURSKIE,178.0,K,0.357429718875502
+2016,Nawozy potasowe,sól potasowa,WIELKOPOLSKIE,169.0,K,0.33935742971887556
+2016,Nawozy potasowe,sól potasowa,ZACHODNIOPOMORSKIE,175.0,K,0.3514056224899599
+2016,Nawozy potasowe,siarczan potasu,DOLNOŚLĄSKIE,217.0,K,0.5228915662650603
+2016,Nawozy potasowe,siarczan potasu,KUJAWSKO-POMORSKIE,262.0,K,0.6313253012048193
+2016,Nawozy potasowe,siarczan potasu,LUBELSKIE,300.0,K,0.7228915662650602
+2016,Nawozy potasowe,siarczan potasu,LUBUSKIE,300.0,K,0.7228915662650602
+2016,Nawozy potasowe,siarczan potasu,ŁÓDZKIE,300.0,K,0.7228915662650602
+2016,Nawozy potasowe,siarczan potasu,MAŁOPOLSKIE,299.0,K,0.7204819277108434
+2016,Nawozy potasowe,siarczan potasu,MAZOWIECKIE,313.0,K,0.7542168674698796
+2016,Nawozy potasowe,siarczan potasu,PODKARPACKIE,320.0,K,0.7710843373493976
+2016,Nawozy potasowe,siarczan potasu,ŚLĄSKIE,296.0,K,0.7132530120481928
+2016,Nawozy potasowe,siarczan potasu,ŚWIĘTOKRZYSKIE,290.0,K,0.6987951807228916
+2016,Nawozy potasowe,siarczan potasu,WIELKOPOLSKIE,299.0,K,0.7204819277108434
+2016,Nawozy potasowe,siarczan potasu,ZACHODNIOPOMORSKIE,339.0,K,0.8168674698795182
+2019,Nawozy azotowe,mocznik,DOLNOŚLĄSKIE,,N,0.32826086956521733
+2020,Nawozy azotowe,mocznik,DOLNOŚLĄSKIE,,N,0.34565217391304337
+2019,Nawozy azotowe,mocznik,KUJAWSKO-POMORSKIE,,N,0.2717391304347826
+2020,Nawozy azotowe,mocznik,KUJAWSKO-POMORSKIE,,N,0.25652173913043474
+2019,Nawozy azotowe,mocznik,LUBELSKIE,,N,0.3108695652173913
+2020,Nawozy azotowe,mocznik,LUBELSKIE,,N,0.3108695652173913
+2019,Nawozy azotowe,mocznik,LUBUSKIE,,N,0.3260869565217391
+2020,Nawozy azotowe,mocznik,LUBUSKIE,,N,0.3260869565217391
+2019,Nawozy azotowe,mocznik,MAZOWIECKIE,,N,0.2608695652173913
+2020,Nawozy azotowe,mocznik,MAZOWIECKIE,,N,0.2
+2019,Nawozy azotowe,mocznik,MAŁOPOLSKIE,,N,0.3913043478260869
+2020,Nawozy azotowe,mocznik,MAŁOPOLSKIE,,N,0.3913043478260869
+2019,Nawozy azotowe,mocznik,OPOLSKIE,,N,0.39565217391304347
+2020,Nawozy azotowe,mocznik,OPOLSKIE,,N,0.45217391304347826
+2019,Nawozy azotowe,mocznik,PODKARPACKIE,,N,0.3826086956521739
+2020,Nawozy azotowe,mocznik,PODKARPACKIE,,N,0.4
+2019,Nawozy azotowe,mocznik,PODLASKIE,,N,0.27826086956521745
+2020,Nawozy azotowe,mocznik,PODLASKIE,,N,0.25217391304347836
+2019,Nawozy azotowe,mocznik,POMORSKIE,,N,0.34782608695652173
+2020,Nawozy azotowe,mocznik,POMORSKIE,,N,0.34782608695652173
+2019,Nawozy azotowe,mocznik,WARMIŃSKO-MAZURSKIE,,N,0.34782608695652173
+2020,Nawozy azotowe,mocznik,WARMIŃSKO-MAZURSKIE,,N,0.34782608695652173
+2019,Nawozy azotowe,mocznik,WIELKOPOLSKIE,,N,0.2934782608695653
+2020,Nawozy azotowe,mocznik,WIELKOPOLSKIE,,N,0.2847826086956523
+2019,Nawozy azotowe,mocznik,ZACHODNIOPOMORSKIE,,N,0.3565217391304347
+2020,Nawozy azotowe,mocznik,ZACHODNIOPOMORSKIE,,N,0.3391304347826086
+2019,Nawozy azotowe,mocznik,ŁÓDZKIE,,N,0.2913043478260869
+2020,Nawozy azotowe,mocznik,ŁÓDZKIE,,N,0.267391304347826
+2019,Nawozy azotowe,mocznik,ŚLĄSKIE,,N,0.2956521739130435
+2020,Nawozy azotowe,mocznik,ŚLĄSKIE,,N,0.2804347826086957
+2019,Nawozy azotowe,mocznik,ŚWIĘTOKRZYSKIE,,N,0.30434782608695643
+2020,Nawozy azotowe,mocznik,ŚWIĘTOKRZYSKIE,,N,0.2826086956521738
+2019,Nawozy azotowe,saletra amonowa,DOLNOŚLĄSKIE,,N,0.37352941176470583
+2020,Nawozy azotowe,saletra amonowa,DOLNOŚLĄSKIE,,N,0.39411764705882346
+2019,Nawozy azotowe,saletra amonowa,KUJAWSKO-POMORSKIE,,N,0.30294117647058816
+2020,Nawozy azotowe,saletra amonowa,KUJAWSKO-POMORSKIE,,N,0.2823529411764705
+2019,Nawozy azotowe,saletra amonowa,LUBELSKIE,,N,0.3147058823529412
+2020,Nawozy azotowe,saletra amonowa,LUBELSKIE,,N,0.28823529411764715
+2019,Nawozy azotowe,saletra amonowa,LUBUSKIE,,N,0.33823529411764697
+2020,Nawozy azotowe,saletra amonowa,LUBUSKIE,,N,0.2499999999999999
+2019,Nawozy azotowe,saletra amonowa,MAZOWIECKIE,,N,0.4352941176470588
+2020,Nawozy azotowe,saletra amonowa,MAZOWIECKIE,,N,0.4352941176470588
+2019,Nawozy azotowe,saletra amonowa,MAŁOPOLSKIE,,N,0.4411764705882352
+2020,Nawozy azotowe,saletra amonowa,MAŁOPOLSKIE,,N,0.4411764705882352
+2019,Nawozy azotowe,saletra amonowa,OPOLSKIE,,N,0.49117647058823516
+2020,Nawozy azotowe,saletra amonowa,OPOLSKIE,,N,0.552941176470588
+2019,Nawozy azotowe,saletra amonowa,PODKARPACKIE,,N,0.3705882352941176
+2020,Nawozy azotowe,saletra amonowa,PODKARPACKIE,,N,0.3499999999999999
+2019,Nawozy azotowe,saletra amonowa,PODLASKIE,,N,0.3058823529411763
+2020,Nawozy azotowe,saletra amonowa,PODLASKIE,,N,0.26470588235294096
+2019,Nawozy azotowe,saletra amonowa,POMORSKIE,,N,0.4411764705882352
+2020,Nawozy azotowe,saletra amonowa,POMORSKIE,,N,0.4411764705882352
+2019,Nawozy azotowe,saletra amonowa,WARMIŃSKO-MAZURSKIE,,N,0.38235294117647056
+2020,Nawozy azotowe,saletra amonowa,WARMIŃSKO-MAZURSKIE,,N,0.38235294117647056
+2019,Nawozy azotowe,saletra amonowa,WIELKOPOLSKIE,,N,0.35882352941176465
+2020,Nawozy azotowe,saletra amonowa,WIELKOPOLSKIE,,N,0.3676470588235293
+2019,Nawozy azotowe,saletra amonowa,ZACHODNIOPOMORSKIE,,N,0.42647058823529405
+2020,Nawozy azotowe,saletra amonowa,ZACHODNIOPOMORSKIE,,N,0.42941176470588227
+2019,Nawozy azotowe,saletra amonowa,ŁÓDZKIE,,N,0.38823529411764707
+2020,Nawozy azotowe,saletra amonowa,ŁÓDZKIE,,N,0.4
+2019,Nawozy azotowe,saletra amonowa,ŚLĄSKIE,,N,0.3529411764705882
+2020,Nawozy azotowe,saletra amonowa,ŚLĄSKIE,,N,0.3529411764705882
+2019,Nawozy azotowe,saletra amonowa,ŚWIĘTOKRZYSKIE,,N,0.38235294117647056
+2020,Nawozy azotowe,saletra amonowa,ŚWIĘTOKRZYSKIE,,N,0.38235294117647056
+2019,Nawozy azotowe,saletrzak,DOLNOŚLĄSKIE,,N,0.4074074074074074
+2020,Nawozy azotowe,saletrzak,DOLNOŚLĄSKIE,,N,0.4185185185185185
+2019,Nawozy azotowe,saletrzak,KUJAWSKO-POMORSKIE,,N,0.30740740740740735
+2020,Nawozy azotowe,saletrzak,KUJAWSKO-POMORSKIE,,N,0.2592592592592592
+2019,Nawozy azotowe,saletrzak,LUBELSKIE,,N,0.362962962962963
+2020,Nawozy azotowe,saletrzak,LUBELSKIE,,N,0.3518518518518519
+2019,Nawozy azotowe,saletrzak,LUBUSKIE,,N,0.48518518518518516
+2020,Nawozy azotowe,saletrzak,LUBUSKIE,,N,0.4962962962962963
+2019,Nawozy azotowe,saletrzak,MAZOWIECKIE,,N,0.4814814814814815
+2020,Nawozy azotowe,saletrzak,MAZOWIECKIE,,N,0.45925925925925937
+2019,Nawozy azotowe,saletrzak,MAŁOPOLSKIE,,N,0.5555555555555556
+2020,Nawozy azotowe,saletrzak,MAŁOPOLSKIE,,N,0.5925925925925926
+2019,Nawozy azotowe,saletrzak,OPOLSKIE,,N,0.48148148148148145
+2020,Nawozy azotowe,saletrzak,OPOLSKIE,,N,0.5185185185185185
+2019,Nawozy azotowe,saletrzak,PODKARPACKIE,,N,0.3999999999999999
+2020,Nawozy azotowe,saletrzak,PODKARPACKIE,,N,0.3407407407407406
+2019,Nawozy azotowe,saletrzak,PODLASKIE,,N,0.4148148148148148
+2020,Nawozy azotowe,saletrzak,PODLASKIE,,N,0.4148148148148148
+2019,Nawozy azotowe,saletrzak,POMORSKIE,,N,0.4925925925925926
+2020,Nawozy azotowe,saletrzak,POMORSKIE,,N,0.5407407407407407
+2019,Nawozy azotowe,saletrzak,WARMIŃSKO-MAZURSKIE,,N,0.39259259259259266
+2020,Nawozy azotowe,saletrzak,WARMIŃSKO-MAZURSKIE,,N,0.35185185185185197
+2019,Nawozy azotowe,saletrzak,WIELKOPOLSKIE,,N,0.37407407407407406
+2020,Nawozy azotowe,saletrzak,WIELKOPOLSKIE,,N,0.37407407407407406
+2019,Nawozy azotowe,saletrzak,ZACHODNIOPOMORSKIE,,N,0.39259259259259255
+2020,Nawozy azotowe,saletrzak,ZACHODNIOPOMORSKIE,,N,0.3407407407407407
+2019,Nawozy azotowe,saletrzak,ŁÓDZKIE,,N,0.4111111111111111
+2020,Nawozy azotowe,saletrzak,ŁÓDZKIE,,N,0.4148148148148148
+2019,Nawozy azotowe,saletrzak,ŚLĄSKIE,,N,0.4296296296296296
+2020,Nawozy azotowe,saletrzak,ŚLĄSKIE,,N,0.4629629629629629
+2019,Nawozy azotowe,saletrzak,ŚWIĘTOKRZYSKIE,,N,0.37777777777777777
+2020,Nawozy azotowe,saletrzak,ŚWIĘTOKRZYSKIE,,N,0.34814814814814815
+2019,Nawozy potasowe,siarczan potasu,DOLNOŚLĄSKIE,,K,0.4891566265060241
+2020,Nawozy potasowe,siarczan potasu,DOLNOŚLĄSKIE,,K,0.4192771084337349
+2019,Nawozy potasowe,siarczan potasu,KUJAWSKO-POMORSKIE,,K,0.672289156626506
+2020,Nawozy potasowe,siarczan potasu,KUJAWSKO-POMORSKIE,,K,0.7469879518072289
+2019,Nawozy potasowe,siarczan potasu,LUBELSKIE,,K,0.710843373493976
+2020,Nawozy potasowe,siarczan potasu,LUBELSKIE,,K,0.746987951807229
+2019,Nawozy potasowe,siarczan potasu,LUBUSKIE,,K,0.7228915662650602
+2020,Nawozy potasowe,siarczan potasu,LUBUSKIE,,K,0.7228915662650602
+2019,Nawozy potasowe,siarczan potasu,MAZOWIECKIE,,K,0.7518072289156627
+2020,Nawozy potasowe,siarczan potasu,MAZOWIECKIE,,K,0.7325301204819277
+2019,Nawozy potasowe,siarczan potasu,MAŁOPOLSKIE,,K,0.5807228915662652
+2020,Nawozy potasowe,siarczan potasu,MAŁOPOLSKIE,,K,0.5228915662650605
+2019,Nawozy potasowe,siarczan potasu,OPOLSKIE,,K,0.819277108433735
+2020,Nawozy potasowe,siarczan potasu,OPOLSKIE,,K,0.8674698795180724
+2019,Nawozy potasowe,siarczan potasu,PODKARPACKIE,,K,0.7710843373493976
+2020,Nawozy potasowe,siarczan potasu,PODKARPACKIE,,K,0.7710843373493976
+2019,Nawozy potasowe,siarczan potasu,WIELKOPOLSKIE,,K,0.6698795180722893
+2020,Nawozy potasowe,siarczan potasu,WIELKOPOLSKIE,,K,0.6698795180722893
+2019,Nawozy potasowe,siarczan potasu,ZACHODNIOPOMORSKIE,,K,0.6987951807228916
+2020,Nawozy potasowe,siarczan potasu,ZACHODNIOPOMORSKIE,,K,0.6771084337349398
+2019,Nawozy potasowe,siarczan potasu,ŁÓDZKIE,,K,0.7228915662650602
+2020,Nawozy potasowe,siarczan potasu,ŁÓDZKIE,,K,0.7228915662650602
+2019,Nawozy potasowe,siarczan potasu,ŚLĄSKIE,,K,0.4048192771084338
+2020,Nawozy potasowe,siarczan potasu,ŚLĄSKIE,,K,0.2506024096385543
+2019,Nawozy potasowe,siarczan potasu,ŚWIĘTOKRZYSKIE,,K,0.8433734939759038
+2020,Nawozy potasowe,siarczan potasu,ŚWIĘTOKRZYSKIE,,K,0.8915662650602412
+2019,Nawozy Fosforowe,superfosfat poj. gran,DOLNOŚLĄSKIE,,P,1.0958205912334356
+2020,Nawozy Fosforowe,superfosfat poj. gran,DOLNOŚLĄSKIE,,P,1.172273190621815
+2019,Nawozy Fosforowe,superfosfat poj. gran,KUJAWSKO-POMORSKIE,,P,1.9240570846075438
+2020,Nawozy Fosforowe,superfosfat poj. gran,KUJAWSKO-POMORSKIE,,P,2.3700305810397557
+2019,Nawozy Fosforowe,superfosfat poj. gran,LUBELSKIE,,P,0.7900101936799186
+2020,Nawozy Fosforowe,superfosfat poj. gran,LUBELSKIE,,P,0.5988786952089707
+2019,Nawozy Fosforowe,superfosfat poj. gran,LUBUSKIE,,P,1.0193679918450558
+2020,Nawozy Fosforowe,superfosfat poj. gran,LUBUSKIE,,P,1.0830784913353717
+2019,Nawozy Fosforowe,superfosfat poj. gran,MAZOWIECKIE,,P,1.146788990825688
+2020,Nawozy Fosforowe,superfosfat poj. gran,MAZOWIECKIE,,P,1.1850152905198776
+2019,Nawozy Fosforowe,superfosfat poj. gran,MAŁOPOLSKIE,,P,1.2742099898063202
+2020,Nawozy Fosforowe,superfosfat poj. gran,MAŁOPOLSKIE,,P,1.2742099898063202
+2019,Nawozy Fosforowe,superfosfat poj. gran,OPOLSKIE,,P,0.6625891946992863
+2020,Nawozy Fosforowe,superfosfat poj. gran,OPOLSKIE,,P,0.10193679918450527
+2019,Nawozy Fosforowe,superfosfat poj. gran,PODKARPACKIE,,P,1.261467889908257
+2020,Nawozy Fosforowe,superfosfat poj. gran,PODKARPACKIE,,P,1.261467889908257
+2019,Nawozy Fosforowe,superfosfat poj. gran,PODLASKIE,,P,1.2869520897043831
+2020,Nawozy Fosforowe,superfosfat poj. gran,PODLASKIE,,P,1.4016309887869518
+2019,Nawozy Fosforowe,superfosfat poj. gran,POMORSKIE,,P,1.5545361875637105
+2020,Nawozy Fosforowe,superfosfat poj. gran,POMORSKIE,,P,1.8093781855249744
+2019,Nawozy Fosforowe,superfosfat poj. gran,WARMIŃSKO-MAZURSKIE,,P,1.197757390417941
+2020,Nawozy Fosforowe,superfosfat poj. gran,WARMIŃSKO-MAZURSKIE,,P,1.197757390417941
+2019,Nawozy Fosforowe,superfosfat poj. gran,WIELKOPOLSKIE,,P,2.6248725790010194
+2020,Nawozy Fosforowe,superfosfat poj. gran,WIELKOPOLSKIE,,P,3.491335372069317
+2019,Nawozy Fosforowe,superfosfat poj. gran,ZACHODNIOPOMORSKIE,,P,1.0830784913353722
+2020,Nawozy Fosforowe,superfosfat poj. gran,ZACHODNIOPOMORSKIE,,P,1.070336391437309
+2019,Nawozy Fosforowe,superfosfat poj. gran,ŁÓDZKIE,,P,1.1850152905198776
+2020,Nawozy Fosforowe,superfosfat poj. gran,ŁÓDZKIE,,P,1.2232415902140672
+2019,Nawozy Fosforowe,superfosfat poj. gran,ŚLĄSKIE,,P,1.1595310907237515
+2020,Nawozy Fosforowe,superfosfat poj. gran,ŚLĄSKIE,,P,1.2996941896024468
+2019,Nawozy Fosforowe,superfosfat poj. gran,ŚWIĘTOKRZYSKIE,,P,1.146788990825688
+2020,Nawozy Fosforowe,superfosfat poj. gran,ŚWIĘTOKRZYSKIE,,P,1.146788990825688
+2019,Nawozy Fosforowe,superfosfat wzb 40%,DOLNOŚLĄSKIE,,P,0.8486238532110089
+2020,Nawozy Fosforowe,superfosfat wzb 40%,DOLNOŚLĄSKIE,,P,0.8772935779816509
+2019,Nawozy Fosforowe,superfosfat wzb 40%,KUJAWSKO-POMORSKIE,,P,0.7683486238532109
+2020,Nawozy Fosforowe,superfosfat wzb 40%,KUJAWSKO-POMORSKIE,,P,0.7224770642201833
+2019,Nawozy Fosforowe,superfosfat wzb 40%,LUBELSKIE,,P,0.9174311926605505
+2020,Nawozy Fosforowe,superfosfat wzb 40%,LUBELSKIE,,P,0.9461009174311927
+2019,Nawozy Fosforowe,superfosfat wzb 40%,LUBUSKIE,,P,0.7626146788990826
+2020,Nawozy Fosforowe,superfosfat wzb 40%,LUBUSKIE,,P,0.6422018348623855
+2019,Nawozy Fosforowe,superfosfat wzb 40%,MAZOWIECKIE,,P,0.8371559633027521
+2020,Nawozy Fosforowe,superfosfat wzb 40%,MAZOWIECKIE,,P,0.7970183486238529
+2019,Nawozy Fosforowe,superfosfat wzb 40%,MAŁOPOLSKIE,,P,1.0321100917431192
+2020,Nawozy Fosforowe,superfosfat wzb 40%,MAŁOPOLSKIE,,P,1.0321100917431192
+2019,Nawozy Fosforowe,superfosfat wzb 40%,OPOLSKIE,,P,0.9633027522935781
+2020,Nawozy Fosforowe,superfosfat wzb 40%,OPOLSKIE,,P,1.0091743119266057
+2019,Nawozy Fosforowe,superfosfat wzb 40%,PODKARPACKIE,,P,1.1353211009174313
+2020,Nawozy Fosforowe,superfosfat wzb 40%,PODKARPACKIE,,P,1.1353211009174313
+2019,Nawozy Fosforowe,superfosfat wzb 40%,PODLASKIE,,P,0.8371559633027523
+2020,Nawozy Fosforowe,superfosfat wzb 40%,PODLASKIE,,P,0.8142201834862386
+2019,Nawozy Fosforowe,superfosfat wzb 40%,POMORSKIE,,P,1.3876146788990826
+2020,Nawozy Fosforowe,superfosfat wzb 40%,POMORSKIE,,P,1.3876146788990826
+2019,Nawozy Fosforowe,superfosfat wzb 40%,WARMIŃSKO-MAZURSKIE,,P,0.7912844036697247
+2020,Nawozy Fosforowe,superfosfat wzb 40%,WARMIŃSKO-MAZURSKIE,,P,0.7511467889908257
+2019,Nawozy Fosforowe,superfosfat wzb 40%,WIELKOPOLSKIE,,P,0.8142201834862385
+2020,Nawozy Fosforowe,superfosfat wzb 40%,WIELKOPOLSKIE,,P,0.7855504587155963
+2019,Nawozy Fosforowe,superfosfat wzb 40%,ZACHODNIOPOMORSKIE,,P,0.8199541284403671
+2020,Nawozy Fosforowe,superfosfat wzb 40%,ZACHODNIOPOMORSKIE,,P,0.7224770642201837
+2019,Nawozy Fosforowe,superfosfat wzb 40%,ŁÓDZKIE,,P,0.9174311926605505
+2020,Nawozy Fosforowe,superfosfat wzb 40%,ŁÓDZKIE,,P,0.9174311926605505
+2019,Nawozy Fosforowe,superfosfat wzb 40%,ŚLĄSKIE,,P,0.8658256880733942
+2020,Nawozy Fosforowe,superfosfat wzb 40%,ŚLĄSKIE,,P,0.9116972477064216
+2019,Nawozy Fosforowe,superfosfat wzb 40%,ŚWIĘTOKRZYSKIE,,P,0.8027522935779815
+2020,Nawozy Fosforowe,superfosfat wzb 40%,ŚWIĘTOKRZYSKIE,,P,0.7224770642201832
+2019,Nawozy potasowe,sól potasowa,DOLNOŚLĄSKIE,,K,0.2991967871485944
+2020,Nawozy potasowe,sól potasowa,DOLNOŚLĄSKIE,,K,0.2991967871485944
+2019,Nawozy potasowe,sól potasowa,KUJAWSKO-POMORSKIE,,K,0.23895582329317278
+2020,Nawozy potasowe,sól potasowa,KUJAWSKO-POMORSKIE,,K,0.20080321285140573
+2019,Nawozy potasowe,sól potasowa,LUBELSKIE,,K,0.28313253012048195
+2020,Nawozy potasowe,sól potasowa,LUBELSKIE,,K,0.26907630522088355
+2019,Nawozy potasowe,sól potasowa,LUBUSKIE,,K,0.4136546184738957
+2020,Nawozy potasowe,sól potasowa,LUBUSKIE,,K,0.4658634538152612
+2019,Nawozy potasowe,sól potasowa,MAZOWIECKIE,,K,0.30120481927710846
+2020,Nawozy potasowe,sól potasowa,MAZOWIECKIE,,K,0.29116465863453816
+2019,Nawozy potasowe,sól potasowa,MAŁOPOLSKIE,,K,0.4417670682730924
+2020,Nawozy potasowe,sól potasowa,MAŁOPOLSKIE,,K,0.4417670682730924
+2019,Nawozy potasowe,sól potasowa,OPOLSKIE,,K,0.32730923694779124
+2020,Nawozy potasowe,sól potasowa,OPOLSKIE,,K,0.33734939759036153
+2019,Nawozy potasowe,sól potasowa,PODKARPACKIE,,K,0.26506024096385544
+2020,Nawozy potasowe,sól potasowa,PODKARPACKIE,,K,0.20481927710843373
+2019,Nawozy potasowe,sól potasowa,PODLASKIE,,K,0.2710843373493976
+2020,Nawozy potasowe,sól potasowa,PODLASKIE,,K,0.23694779116465858
+2019,Nawozy potasowe,sól potasowa,POMORSKIE,,K,0.34337349397590367
+2020,Nawozy potasowe,sól potasowa,POMORSKIE,,K,0.34337349397590367
+2019,Nawozy potasowe,sól potasowa,WARMIŃSKO-MAZURSKIE,,K,0.33132530120481934
+2020,Nawozy potasowe,sól potasowa,WARMIŃSKO-MAZURSKIE,,K,0.33132530120481934
+2019,Nawozy potasowe,sól potasowa,WIELKOPOLSKIE,,K,0.26706827309236947
+2020,Nawozy potasowe,sól potasowa,WIELKOPOLSKIE,,K,0.24698795180722888
+2019,Nawozy potasowe,sól potasowa,ZACHODNIOPOMORSKIE,,K,0.32931726907630526
+2020,Nawozy potasowe,sól potasowa,ZACHODNIOPOMORSKIE,,K,0.33935742971887556
+2019,Nawozy potasowe,sól potasowa,ŁÓDZKIE,,K,0.32530120481927705
+2020,Nawozy potasowe,sól potasowa,ŁÓDZKIE,,K,0.2931726907630521
+2019,Nawozy potasowe,sól potasowa,ŚLĄSKIE,,K,0.2811244979919678
+2020,Nawozy potasowe,sól potasowa,ŚLĄSKIE,,K,0.26305220883534125
+2019,Nawozy potasowe,sól potasowa,ŚWIĘTOKRZYSKIE,,K,0.30120481927710846
+2020,Nawozy potasowe,sól potasowa,ŚWIĘTOKRZYSKIE,,K,0.28112449799196787

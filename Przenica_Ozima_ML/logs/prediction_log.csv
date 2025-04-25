@@ -1,0 +1,4 @@
+timestamp,wojewodztwo,rok,input_data,prediction,actual_yield,error
+2025-04-25 23:36:31,,0,{'N': 90.0, 'P': 30.0, 'K': 40.0, 'temperatura': 10.5, 'opady': 700.0, 'klaster_finansowy': 0, 'klaster_pogodowy': 1},52.63125238095238,,
+2025-04-25 23:38:07,,0,{'N': 90.0, 'P': 30.0, 'K': 10.0, 'temperatura': 23.5, 'opady': 500.0, 'klaster_finansowy': 0, 'klaster_pogodowy': 1},40.99854999999998,,
+2025-04-25 23:38:17,,0,{'N': 40.0, 'P': 30.0, 'K': 10.0, 'temperatura': 23.5, 'opady': 500.0, 'klaster_finansowy': 0, 'klaster_pogodowy': 1},40.37695833333332,,
